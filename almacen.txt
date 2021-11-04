@@ -1,1 +1,3 @@
 Inventario 1
+
+la clase a
